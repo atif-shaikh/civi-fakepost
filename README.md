@@ -1,4 +1,4 @@
-Testing offline Recurring Contributions using Paypal Fakepost IPN
+Testing offline Recurring Contributions using Paypal Fakepost IPN for CiviCRM
 
 Steps to perform Recurring Contributions :
 ----------------------------------------------
